@@ -50,7 +50,7 @@ Credits
 - KameaSinger = Voice of Vesola
 - Zephyr Dark = Voice of Robuster
 - MidniteRealmVA = Voice of Vigoro
-- itsbecky1234 = Voice of Hydra
+- Beckyvo = Voice of Hydra
 - FunkyLion = Voice of Maloxic
   
 - Kart Krew Dev = For the kart base sprites and creating Dr. Robotnik's Ring Racers
