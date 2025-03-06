@@ -46,7 +46,7 @@ Credits
   
 - Skylar Tublian VA = Voice of Dirk
 - GreenBeanXP = Voice of Whirl
-- Shiraz = Voice of Star
+- Shiraz Elisha = Voice of Star
 - KameaSinger = Voice of Vesola
 - Zephyr Dark = Voice of Robuster
 - MidniteRealmVA = Voice of Vigoro
